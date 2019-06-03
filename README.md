@@ -1,5 +1,5 @@
 # ozeurope1
-my new project
+Our new project
 
 Based on seed project `spring-team:spring-rest-seed`
 
