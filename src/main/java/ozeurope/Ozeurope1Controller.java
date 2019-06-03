@@ -30,7 +30,7 @@ class Ozeurope1Controller {
 
 	@RequestMapping(method = GET, path = "/")
 	public String root() {
-		return "Spring Boot REST service running. Australia/Europe "
+		return "Spring Boot REST service running. Australian/European "
 				+ getClass().getName();
 	}
 
